@@ -5,5 +5,4 @@ Tecnologías utilizadas:
 -HTML5
 -CSS3
 -JavaScript
--Git / Github
 

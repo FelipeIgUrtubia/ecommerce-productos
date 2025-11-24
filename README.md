@@ -1,2 +1,9 @@
-# README - ecommerce-productos
-Este repositorio contiene la página donde se listan los productos del e-commerce. Cada producto se muestra en tarjetas con su nombre, imagen, descripción y botón para comprar.
+# README - ecommerce-frontend
+Este proyecto corresponde al frontend de una tienda e-commerce simple. Incluye una barra de navegación, listado de productos en tarjetas, botones de compra, enlace al carro de compras, footer informativo y una página individual para mostrar la descripción de cada producto.
+
+Tecnologías utilizadas:
+-HTML5
+-CSS3
+-JavaScript
+-Git / Github
+

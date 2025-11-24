@@ -1,2 +1,2 @@
-# ecommerce-productos
-Página dedicada al listado de productos del proyecto e-commerce. Incluye tarjetas, estilos y carga dinámica básica.
+# README - ecommerce-productos
+Este repositorio contiene la página donde se listan los productos del e-commerce. Cada producto se muestra en tarjetas con su nombre, imagen, descripción y botón para comprar.
